@@ -8,6 +8,7 @@ import {inject} from 'aurelia-framework';
       firstName: string;
       lastName: string;
       email: string;
+      phoneNumber: string;
     }
 
     @inject(WebAPI, EventAggregator)
@@ -30,7 +31,7 @@ import {inject} from 'aurelia-framework';
       }
 
       get canSave() {
-        return this.contact.firstName && this.contact.lastName && !this.api.isRequesting;
+        return this.contact.firstName && this.contact.lastName && this.contact.phoneNumber && !this.api.isRequesting;
       }
 
       save() {

@@ -30,6 +30,16 @@ a:focus {
   border: 1px solid #ddd;
   padding: 10px;
 }
+.contact-list li.list-group-item.active > a h4,
+.contact-list li.list-group-item.active > a p  {
+  color: white !important;
+}
+.contact-list h4 {
+  color: black;
+}
+.contact-list p {
+  color: black;
+}
 
 .panel {
   margin: 20px;

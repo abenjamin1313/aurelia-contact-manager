@@ -8,38 +8,45 @@ function getId(){
 let contacts = [
   {
     id:getId(),
-    firstName:'John',
-    lastName:'Tolkien',
-    email:'tolkien@inklings.com',
-    phoneNumber:'867-5309'
+    firstName:'Adam',
+    lastName:'Victor',
+    email:'avcitor@someemail.com',
+    phoneNumber:'000-222-3344'
   },
   {
     id:getId(),
-    firstName:'Clive',
-    lastName:'Lewis',
-    email:'lewis@inklings.com',
-    phoneNumber:'867-5309'
+    firstName:'Some',
+    lastName:'Person',
+    email:'sperson@someemail.com',
+    phoneNumber:'111-222-3344'
   },
   {
     id:getId(),
-    firstName:'Owen',
-    lastName:'Barfield',
-    email:'barfield@inklings.com',
-    phoneNumber:'867-5309'
+    firstName:'Some',
+    lastName:'Person',
+    email:'sperson@someemail.com',
+    phoneNumber:'111-222-3344'
   },
   {
     id:getId(),
-    firstName:'Charles',
-    lastName:'Williams',
-    email:'williams@inklings.com',
-    phoneNumber:'867-5309'
+    firstName:'Some',
+    lastName:'Person',
+    email:'sperson@someemail.com',
+    phoneNumber:'111-222-3344'
   },
   {
     id:getId(),
-    firstName:'Roger',
-    lastName:'Green',
-    email:'green@inklings.com',
-    phoneNumber:'867-5309'
+    firstName:'Some',
+    lastName:'Person',
+    email:'sperson@someemail.com',
+    phoneNumber:'111-222-3344'
+  },
+  {
+    id:getId(),
+    firstName:'Some',
+    lastName:'Person',
+    email:'sperson@someemail.com',
+    phoneNumber:'111-222-3344'
   }
 ];
 
