@@ -5,7 +5,8 @@
       </div>
       <div class="card-body">
         <form role="form">
-          <div class="form-group row">
+          
+          <div class="form-group">
             <label class="col-sm-3 col-form-label">First Name</label>
             <div class="col-sm-9">
               <input type="text" placeholder="first name" class="form-control" value.bind="contact.firstName">
@@ -32,6 +33,7 @@
               <input type="text" placeholder="phone number" class="form-control" value.bind="contact.phoneNumber">
             </div>
           </div>
+
         </form>
         <div>
           <button class="btn btn-success float-right" click.delegate="save()" disabled.bind="!canSave">Save</button>

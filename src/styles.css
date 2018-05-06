@@ -7,7 +7,16 @@ section {
 a:focus {
   outline: none;
 }
-
+.navbar {
+  background-color: #007bff;
+  color: #ffffff;
+}
+.navbar a {
+  color: white;
+}
+.navbar a:hover {
+  color: black;
+}
 .navbar-nav li.loader {
     margin: 12px 24px 0 6px;
 }
@@ -49,4 +58,9 @@ li.list-group-item > a {
 
 li.list-group-item.active > a {
   color: white;
+}
+
+/* Card section */
+.card {
+  margin-top: 10px;
 }
