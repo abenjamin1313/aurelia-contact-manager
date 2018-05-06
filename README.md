@@ -12,7 +12,8 @@ Using [Bootstrap Components](https://getbootstrap.com/docs/3.3/components/) with
 
 ## Development server
 Download the basic script setup [Download Aurelia Porject](http://aurelia.io/downloads/basic-aurelia-project.zip)  
-also run  
+also run if you do not have the AureliaJS framework installed locally  
+ 
 #### npm install aurelia-cli -g   
 To create the project, run au new from the command line. You will be presented with a number of options.  
 
