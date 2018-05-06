@@ -3,8 +3,7 @@
 ### aurelia front end framework
 Conact manager application using the Aurelia JS framework along.  
 Using [bootstrap](https://getbootstrap.com/docs/3.3/css/) CSS for the layout and some styling on the input form plus output table.  
-[Bootstrap Components](https://getbootstrap.com/docs/3.3/components/)  
-Utlizing 
+Using [Bootstrap Components](https://getbootstrap.com/docs/3.3/components/) with [Font Awesome Icon](https://fontawesome.com/get-started)  
 
 ### Landing  Page
 ![alt text](https://github.com/abenjamin1313/aurelia-contact-manager/blob/master/images/landing-page-one.png)   
